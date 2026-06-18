@@ -45,6 +45,6 @@ This project enables stakeholders to monitor business performance, identify grow
 Power BI Development, Data Visualization, Power Query, DAX, Data Modeling, Business Intelligence, Dashboard Design, Data Analytics, Problem Solving, and Data-Driven Decision Making.
 
 
-🔗 Check out the GitHub repo here: your repo link[https://github.com/Somnath63719/SuperStore-PowerBI-dashboard.git]
+🔗 Check out the GitHub repo here: [your repo link](https://github.com/Somnath63719/SuperStore-PowerBI-dashboard.git)
 
 
